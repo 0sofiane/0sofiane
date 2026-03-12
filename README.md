@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Sofiane
 
-<!--
-**0sofiane/0sofiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & automation specialist at GBI Experts-Conseils where I'm currently building RAG & document processing pipelines, infrastructure automation, and AI solutions on Azure.
 
-Here are some ideas to get you started:
+M.Sc. Business Intelligence @ HEC Montréal, focusing on decision sciences (machine learning, NLP, data mining)
+Previously graduated from École Polytechnique d'Alger in industrial engineering with a focus on data science & AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Past experience includes GenAI consulting at KPMG France, data governance & ALM risk modeling at BNP Paribas, and marketing analytics at Air Miles.
+
+## What I work with
+
+Python · Azure AI services · SQL · Scikit-learn · TensorFlow/Keras · NLP · PyTorch · LangChain · Git 
+
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/sofiane-kartobi/)
